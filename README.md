@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adhikar and working 
+- 👋 Hi, I’m @adhikar
 - 👀 I’m interested in Azure cloud, AWS Cloud, .Net technologies, Javascript, HTML, CSS , SQL and No-SQL
 - Working as Senior Software Engineer and responsible for designing high level & low level system design
 - 📫 How to reach me @ - adhikar.p.patil@gmail.com
